@@ -18,8 +18,8 @@
 ## Anthropromorphism Role
 *How anthropromorophism mediates the trust dynamic in this context.* 
 
-##Violation Conditions
+## Violation Conditions
 *What happens when this principle is ignored - and what EVT predicts as the consequence.*
 
-##Cross-references
+## Cross-references
 *Related entries in this taxonomy; relevant citations.* 
