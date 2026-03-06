@@ -2,7 +2,7 @@
 ## Theoretical Grounding
 *Which framework(s) apply - CASA, EVT, Social Norms Theory - and the specific mechanism at play.*
 
-##Conversational Context
+## Conversational Context
 *Where in a financial AI interaction this principle applies and why it matters there.*
 
 ##Design Implication
