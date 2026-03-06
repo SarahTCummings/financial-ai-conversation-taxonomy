@@ -5,7 +5,7 @@
 ## Conversational Context
 *Where in a financial AI interaction this principle applies and why it matters there.*
 
-##Design Implication
+## Design Implication
 *What the theory predicts about language, tone, or structure - and what it prescribes for designers.*
 
 ## Illustrative Dialogue
