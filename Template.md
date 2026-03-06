@@ -11,9 +11,12 @@
 ## Illustrative Dialogue
 *A synthesized example demonstrating the principle in action. Not drawn from any real system.*
 
-**Agent:**
-**User:**
-**Agent:**
+**Agent:**  
+
+**User:**  
+
+**Agent:**  
+
 
 ## Anthropromorphism Role
 *How anthropromorophism mediates the trust dynamic in this context.* 
